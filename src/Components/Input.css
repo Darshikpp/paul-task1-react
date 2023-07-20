@@ -1,0 +1,27 @@
+.label-second,.label-third,.label-fourth{
+    color: red;
+    font-weight: bold;
+}
+.inputfields{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: bold;
+
+}
+.label-second,.label-third{
+    width: 70px;
+    text-align: right;
+}
+.description-label{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-weight: bold;
+
+
+}
+.description-label input{
+    width: 450px;
+    margin-left: 10px;
+}
+

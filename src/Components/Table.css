@@ -1,0 +1,28 @@
+th{
+    padding: 30px;
+
+}
+td{
+    border: 1px solid black;
+    font-weight: bold ;
+    
+}
+.table-container{
+    background-color: rgba(226, 172, 26, 0.921);
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    position: relative;
+    border: 1px;
+
+}
+.btn-container{
+    display: flex;
+    margin-top: 30px;
+}
+.btnbtn{
+    background-color: blue;
+    border-radius: 50px;
+    color: white;
+    
+}

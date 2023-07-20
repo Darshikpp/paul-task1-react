@@ -1,0 +1,117 @@
+.remark-label input{
+    width: 1000px;
+    margin-left: 10px;
+    border: 2px solid black;
+    height: 20px;
+}
+.inputfield1 input{
+    height: 29px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.inputfield2 input{
+    height: 29px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.inputfield3 input{
+    height: 29px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.remark-label{
+margin-top: 30px;
+margin-left: 50px;
+font-weight: bold;
+
+}
+.inputfield1{
+    padding: 20px;
+    margin-left: 30px;
+    display: grid;
+    width: 25px;
+    font-weight: bold;
+    
+}
+.main{
+    display: flex;
+}
+
+
+.inputfield2{
+    padding: 20px;
+    margin-left: 140px;
+    display: grid;
+    font-weight: bold;
+}
+
+.inputfield3{
+    padding: 20px;
+  
+    display: grid;
+    font-weight: bold;
+}
+.button1{
+    height: 40px;
+    width: 10%;
+    color: rgb(242, 234, 234);
+    font-weight: bold;
+    background-color: rgb(84, 84, 240);
+    margin-left: 55px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.button2{
+    height: 40px;
+    width: 10%;
+    color: rgb(242, 234, 234);
+    font-weight: bold;
+    background-color: rgb(89, 89, 246);
+     margin-left: 50px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.button3{
+    height: 40px;
+    width: 10%;
+    color: rgb(242, 234, 234);
+    font-weight: bold;
+    background-color: rgb(88, 88, 243);
+    margin-left: 58px;
+    margin-top: 2px;
+    font-weight: bold;
+  
+}
+.button4{
+
+    height: 40px;
+    width: 10%;
+    color: rgb(242, 234, 234);
+    font-weight: bold;
+    background-color: rgb(88, 88, 243);
+    margin-left: 288px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.button5{
+
+    height: 40px;
+    width: 10%;
+    color: rgb(242, 234, 234);
+    font-weight: bold;
+    background-color: rgb(88, 88, 243);
+    margin-left: 10px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.button6{
+
+    height: 40px;
+    width: 6%;
+    color: rgb(242, 234, 234);
+    font-weight: bold;
+    background-color: rgb(88, 88, 243);
+    margin-left: 20px;
+    margin-top: 2px;
+    font-weight: bold;
+}
